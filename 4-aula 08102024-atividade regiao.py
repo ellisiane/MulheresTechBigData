@@ -16,4 +16,4 @@ if codigo_origem in tabela_procedencia:
     regiao_procedencia = tabela_procedencia[codigo_origem]
     print("Região de procedência:", regiao_procedencia)
 else:
-    print ("Região de procedência desconhecida")
+    print ("Importado")
